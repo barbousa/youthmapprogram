@@ -29,12 +29,12 @@ Ideally all maps will be prepared using only the unmodified symbols described in
 * 6 additional symbols have been added to represent common school grounds and park features. This is to replace the multitude of school symbol sets that have been used until recently. 
 * See examples of use in pictures on the [OCAD School set](http://ocad.com/blog/2020/02/symbol-set-for-school-orienteering-maps/) website
 
-In the table below, the Approximate Maximum Dimensions in the first column are the width x length in meters, assuming final "Portrait" layout on a Letter sized page \(21.6 cm x 27.9 cm\) -- i.e., the E-W x N-S extension in meters.
+In the table below, the Approximate Maximum Dimensions in the first column are the width x length in meters of the area to be mapped, assuming final "Portrait" layout on a Letter sized page \(21.6 cm x 27.9 cm\) -- i.e., the E-W x N-S extension in meters.
 
-| Approx. max. dimensions of area to be mapped  | Final printed map scale | Symbol Set | Distance between North Lines |
+| Approx. max. dim. | Final printed map scale | Symbol Set | Distance between North Lines |
 | :--- | :--- | :--- | :--- |
 | 200 x 265 | 1:1,000 | School Symbols Set |  |
-| Use scales between 1,000 and 2,500  | 10-25 |  |  |
+| Various | 1:1000-1:2500 | School Symbols Set |  |
 | 500 x 660 | 1:2,500 | School Symbols Set |  |
 | 600 x 790 | 1:3,000 | ISSprOM 2019 | 120 m |
 | 800 x 1,050 | 1:4,000 | ISSprOM 2019 | 120 m |
