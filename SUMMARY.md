@@ -27,6 +27,10 @@
   * [From Mapper Contract](for-mappers/mapping-and-branding-guidelines/from-mapper-contract.md)
   * [Map Contract for Youth Organizations](for-mappers/mapping-and-branding-guidelines/map-contract-for-youth-organizations.md)
 
+## For Map Consultants
+
+* [Map Consultant Table of Contents](for-map-consultants/map-consultant-table-of-contents.md)
+
 ## For Schools and Youth Organizations
 
 * [Information for Schools and Youth Organizations](for-schools-and-youth-organizations/untitled.md)
