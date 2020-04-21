@@ -13,3 +13,7 @@ It includes the following sections:
 * [Information for schools and youth organizations](for-schools-and-youth-organizations/untitled.md)
 * [Information for the Youth Mapping Committee](for-the-ymp-committee/untitled.md)
 
+
+
+This book was created with GitBook. We love GitBook. It is an easy way to create beautiful documentation online; GitBook hosts the documentation; there is a nice integration with GitHub. Enjoy!
+
