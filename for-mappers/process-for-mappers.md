@@ -2,7 +2,7 @@
 
 1. Apply to be a mapper with the YMP program.
 2. Join the YMPmappers@orienteeringusa.org group, and contribute to the discussion.
-3. Read the docs: become familiar with the information in this manual. Understand the expectations of mappers and confirm continued interested in participating in the program.
+3. Read the docs: become familiar with the information in this manual. Understand the expectations of mappers and confirm continued interest in participating in the program.
 4. Express interest in any of the unassigned mapping projects.
 5. Receive assignment of mapping project and your assigned **YMP Map Consultant**
 6. Communicate with school; work out contract details with YMP \(eg size of map; schedule; paid vs volunteer\)
