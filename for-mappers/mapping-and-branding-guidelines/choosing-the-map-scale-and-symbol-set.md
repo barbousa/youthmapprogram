@@ -8,6 +8,8 @@ The symbol set is chosen as a function of the area to be mapped and the intended
 
 Safety Bounding: When determining the area to be mapped, it is recommended for the edges of the mapped area to consist of major linear features \(road, stream, ridge, etc\).  Significant features \(large buildings, roads, towers, etc\) just beyond the boundaries may be usefully shown. The mapper should adjust the area, depending on issues like suitability and safety, especially for younger students.
 
+The area of the map will need to be measured to use in the mapper contract to determine payment and/or donation amount. To do this in OCAD or OOM, simply draw a polygon around the area to be mapped using an area symbol, then go to the measure tool to view the area measured. For YMP purposes, areas should be given in square kilometers. Also, it's important to only measure the usable area of the map, in other words, the area to be field checked and where competitors will be allowed to go. So don't include out of bound areas at the edge of the map and if there are large out of bounds areas in the middle of the mapped area, measure those separately and then subtract those areas from the total mapped area.
+
 The primary data sources will often be publicly available Lidar data and aerial imagery. If Lidar data exists, but is not publicly available and possibly only for a fee, it is sometimes useful for the school or scout group to approach the local entity for acquiring the data from their county or local GIS office, as they would be the locally benefiting non-profit organization educating local youths, and may thus get the data at a reduced price or even for free. They may, though, need help in finding the data and formulating the proper inquiry to said office.
 
 Every final map should include the required titles, explanatory text, branding and copyright information. Plan for adequate space available for map layout \(explanatory text, logos, title, etc.\). Communicate with organisation requesting the map whether it is desired for the legend to be on the map, or provided separately, and plan accordingly.
@@ -33,9 +35,9 @@ In the table below, the Approximate Maximum Dimensions in the first column are t
 
 | Approx. max. dim. | Final printed map scale | Symbol Set | Distance between North Lines |
 | :--- | :--- | :--- | :--- |
-| 200 x 265 | 1:1,000 | School Symbols Set |  |
-| Various | 1:1000-1:2500 | School Symbols Set |  |
-| 500 x 660 | 1:2,500 | School Symbols Set |  |
+| 200 x 265 | 1:1,000 | School Symbols Set | 30 m |
+| Various | 1:1000-1:2500 | School Symbols Set | 30-75 m |
+| 500 x 660 | 1:2,500 | School Symbols Set | 75 m |
 | 600 x 790 | 1:3,000 | ISSprOM 2019 | 120 m |
 | 800 x 1,050 | 1:4,000 | ISSprOM 2019 | 120 m |
 | 1,000 x 1,325 | 1:5,000 | ISSprOM 2019 | 120 m |
