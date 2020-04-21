@@ -23,7 +23,7 @@ The main considerations are the following:
 * Has the YO identified a person at the school who will do the field checking? There is no compensation for field checking; this is one of the ways we encourage the YO to be invested in the map.
 * Geographic distribution of maps. We would like maps all over the country. Conversely, it may be useful to have a critical mass of local maps so educators in different nearby schools can work together on inter-school programming.
 * Smaller maps suitable for beginner instruction are preferred
-* Is the YO willing to pay the 10% fee \(at minimum\)?
+* Is the YO willing to pay the $50 fee \(at minimum\)?
 * Are there any mappers willing to take on this project?
 
 Please note that assignments are not first-in-first-out. We rely on the considerations as laid out above.

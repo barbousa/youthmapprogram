@@ -1,7 +1,5 @@
 # Process for Mappers
 
-\[Under Construction\]
-
 1. Apply to be a mapper with the YMP program.
 2. Join the YMPmappers@orienteeringusa.org group, and contribute to the discussion.
 3. Read the docs: become familiar with the information in this manual. Understand the expectations of mappers and confirm continued interested in participating in the program.
