@@ -4,7 +4,7 @@ For the purposes of OUSA’s Youth Mapping Project, a mapped area ideally fits o
 
 The scale should be appropriate for the project; typically ranging between 1:1,000 and 1:4,000. We strongly recommend reading the [OCAD Wiki on map scale](https://www.ocad.com/wiki/ocad/en/index.php?title=Map_Scale).
 
-The symbol set is chosen as a function of the area to be mapped and the intended scale for the final printed map, with North being at the top of the page, whether in Portrait or in Landscape page orientation.
+The symbol set is chosen as a function of the area to be mapped and the intended scale for the final printed map, with Magnetic North being at the top of the page, whether in Portrait or in Landscape page orientation.
 
 Safety Bounding: When determining the area to be mapped, it is recommended for the edges of the mapped area to consist of major linear features \(road, stream, ridge, etc\).  Significant features \(large buildings, roads, towers, etc\) just beyond the boundaries may be usefully shown. The mapper should adjust the area, depending on issues like suitability and safety, especially for younger students.
 
