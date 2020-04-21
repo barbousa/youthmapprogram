@@ -6,7 +6,7 @@ description: Summary of requirements
 
 Please become familiar with all of the [Mapping and Branding Guidelines](./).
 
-This page is a summary of the key expectations from those guidelines. Please check in with the YMP Committee if you want to make any changes for your project.
+This page is a summary of the key expectations from those guidelines. Please check in with the YMP Committee if you want to make any changes to these guidelines for your project. Feel free to consult the YMP Map Consultant at any stage of this project with questions.
 
 * Map scale and symbol set
   * Fit on Letter paper.

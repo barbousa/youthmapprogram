@@ -2,7 +2,7 @@
 
 For the purposes of OUSA’s Youth Mapping Project, a mapped area ideally fits on standard, Letter sized paper \(8.5” x 11”\), while allowing for adequate space for map layout, like map title or name,explanatory text, legend, branding, etc.
 
-The scale should be appropriate for the project; typically ranging between 1:1,000 and 1:4,000
+The scale should be appropriate for the project; typically ranging between 1:1,000 and 1:4,000. We strongly recommend reading the [OCAD Wiki on map scale](https://www.ocad.com/wiki/ocad/en/index.php?title=Map_Scale).
 
 The symbol set is chosen as a function of the area to be mapped and the intended scale for the final printed map, with North being at the top of the page, whether in Portrait or in Landscape page orientation.
 
