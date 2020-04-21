@@ -5,7 +5,7 @@
 3. Read the docs: become familiar with the information in this manual. Understand the expectations of mappers and confirm continued interest in participating in the program.
 4. Express interest in any of the unassigned mapping projects.
 5. Receive assignment of mapping project and your assigned **YMP Map Consultant**
-6. Communicate with school; work out contract details with YMP \(eg size of map; schedule; paid vs volunteer\)
+6. Communicate with school or Youth Organization; work out contract details with YMP \(eg size of map; schedule; paid vs volunteer\)
 7. Sign contract with OUSA.
 8. Perform work. Coordinate with school-provided field checker. Encourage and advise on using the map for teaching and introducing more kids to orienteering.
 9. Submit drafts for **YMP Map Consultant** to review.
