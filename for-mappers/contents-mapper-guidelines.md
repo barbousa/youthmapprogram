@@ -1,4 +1,4 @@
-# Contents: For Mappers
+# YMP Mapping Guidelines
 
 Contents
 

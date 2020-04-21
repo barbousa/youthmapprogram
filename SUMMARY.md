@@ -9,11 +9,12 @@
 * [Map Consultants](the-youth-mapping-program/map-consultants.md)
 * [Remote Mappers and Field Checking](the-youth-mapping-program/remote-mappers-and-field-checking.md)
 * [Communication with YO and YMP Committee](the-youth-mapping-program/communication-with-yo-and-ymp-committee.md)
-* [Map Grants](the-youth-mapping-program/map-grants.md)
+* [Cost](the-youth-mapping-program/cost.md)
+* [Grant Rubric](the-youth-mapping-program/map-grants.md)
 
 ## For Mappers
 
-* [Contents: For Mappers](for-mappers/contents-mapper-guidelines.md)
+* [YMP Mapping Guidelines](for-mappers/contents-mapper-guidelines.md)
 * [Process for Mappers](for-mappers/process-for-mappers.md)
 * [Mapping and Branding Guidelines](for-mappers/mapping-and-branding-guidelines/README.md)
   * [Summary](for-mappers/mapping-and-branding-guidelines/requirements.md)
