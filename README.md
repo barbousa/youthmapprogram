@@ -17,3 +17,7 @@ It includes the following sections:
 
 This book was created with GitBook. We love GitBook. It is an easy way to create beautiful documentation online; GitBook hosts the documentation; there is a nice integration with GitHub. Enjoy!
 
+![A school orienteering map created for Navigation Games by Ed Despard](.gitbook/assets/image.png)
+
+
+
