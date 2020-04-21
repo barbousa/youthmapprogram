@@ -8,7 +8,7 @@
 6. Communicate with school; work out contract details with YMP \(eg size of map; schedule; paid vs volunteer\)
 7. Sign contract with OUSA.
 8. Perform work. Coordinate with school-provided field checker. Encourage and advise on using the map for teaching and introducing more kids to orienteering.
-9. Submit drafts for **Map Consultant** to review.
+9. Submit drafts for **YMP Map Consultant** to review.
 10. Revise map together with field checker. 
 11. Submit final draft to OUSA: OCAD \(and PDF?\) versions
 12. **Map Consultant** requests any final adjustments and releases the map 
