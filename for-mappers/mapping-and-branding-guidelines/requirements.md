@@ -21,7 +21,7 @@ This page is a summary of the key expectations from those guidelines. Please che
   * Use proper relationships for vertex features.
   * Follow IOF legibility and orientation requirements.
   * Follow guidelines for magnetic north lines spacing and legibility.
-  * The map should not show flaws at blown-up scales used in teaching.
+  * The map should not show flaws at blown-up scales \(which are likely to be used in teaching\).
 * Layout and branding: Use our sample OCAD files for standard look and feel.
 * Map information meta-data: Provide the elements we require.
 * Use our file naming convention and know the submission procedures.
