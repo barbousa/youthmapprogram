@@ -2,8 +2,8 @@
 
 Below are OCAD files which contain symbols and colors that are intended to be used to create a standard look and feel for the maps created through the YMP. 
 
-* [YMP Branding Symbols 4000 OCAD](https://drive.google.com/open?id=1YdFNa53qKS2d-bviPt2qNgYck53sLkuL)
-* [YMP Branding Symbols 1000 OCAD](https://drive.google.com/open?id=19WY-7hwCHYjnrGvLqoajgRCDZtoeceGi)
+* [YMP Branding Symbols 4000 OCAD](https://drive.google.com/a/orienteeringusa.org/file/d/1VGH3_WX1hjUsKxOn6tj9fQQhIUmqv-6b/view?usp=sharing)
+* [YMP Branding Symbols 1000 OCAD](https://drive.google.com/open?id=1MgpbaBSncwuBwGSsucwK2sYQ-gvajoCj)
 
 The files should be imported into the OCAD files or OOM file, either ahead of starting to draft a map, or before starting with the final layout and branding of the final map.
 
