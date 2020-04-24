@@ -1,16 +1,15 @@
 # Process for Mappers
 
-1. Apply to be a mapper with the YMP program.
-2. Join the YMPmappers@orienteeringusa.org group, and contribute to the discussion.
-3. Read the docs: become familiar with the information in this manual. Understand the expectations of mappers and confirm continued interest in participating in the program.
-4. Express interest in any of the unassigned mapping projects.
-5. Receive assignment of mapping project and your assigned **YMP Map Consultant**
-6. Communicate with school or Youth Organization; work out contract details with YMP \(eg size of map; schedule; paid vs volunteer\)
-7. Sign contract with OUSA.
-8. Perform work. Coordinate with school-provided field checker. Encourage and advise on using the map for teaching and introducing more kids to orienteering.
-9. Submit drafts for **YMP Map Consultant** to review.
-10. Revise map together with field checker. 
-11. Submit final draft to OUSA: OCAD \(and PDF?\) versions
-12. **Map Consultant** requests any final adjustments and releases the map 
-13. Get paid \(if not 100% volunteering\)
+1. **Mapper**: After reviewing the expectations of mappers as laid out in the [contract language](from-mapper-contract.md), apply to be a mapper with the YMP program.
+2. **YMP**: Decide on the application. Send the mapper additional information and an invitation to the google group for mappers \(YMPmappers\). Send periodic emails to YMPmappers@orienteeringusa.org describing currently open mapping projects.
+3. **Mapper**: Provide YMP any additional information required \(e.g., IRS W-9 tax form\). Accept the invitation to the google group. Follow and contribute to the discussion. Express interest in any of the open mapping projects.
+4. **YMP**: Assign Mapper and Map Consultant to a map project; prepare contracts
+5. **Mapper**: Work out contract details with YMP \(eg size of map; schedule; paid vs volunteer\)
+6. **OUSA, Mapper**: Sign contract.
+7. **Mapper**: Contact the Youth Organization and talk about the field checking process. \(YMP will provide [useful tips](tips-for-guiding-inexperienced-field-checkers.md) on how to guide an inexperienced field checker to review the map.\) Perform work. Coordinate with Youth Organization-provided field checker. Whenever possible in ongoing communications, encourage and advise the Youth Organization on using the map for teaching and introducing more kids to orienteering.
+8. **Mapper**: Submit drafts for YMP Map Consultant to review.
+9. **Map Consultant**: review drafts and provide feedback to mapper.
+10. **Mapper**: Revise map together with field checker. Submit final draft to OUSA: OCAD \(and PDF?\) versions.
+11. **Map Consultant:** request any final adjustments and releases the map.
+12. **Mapper**: Final adjustments. Submit final map. Get paid \(if not 100% volunteering\)
 

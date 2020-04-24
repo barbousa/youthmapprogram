@@ -16,6 +16,8 @@
 
 * [YMP Mapping Guidelines](for-mappers/contents-mapper-guidelines.md)
 * [Process for Mappers](for-mappers/process-for-mappers.md)
+* [Mapper Contract Language](for-mappers/from-mapper-contract.md)
+* [Tips for guiding inexperienced field checkers](for-mappers/tips-for-guiding-inexperienced-field-checkers.md)
 * [Mapping and Branding Guidelines](for-mappers/mapping-and-branding-guidelines/README.md)
   * [Summary](for-mappers/mapping-and-branding-guidelines/requirements.md)
   * [Choosing the Map Scale and Symbol Set](for-mappers/mapping-and-branding-guidelines/choosing-the-map-scale-and-symbol-set.md)
@@ -23,14 +25,11 @@
   * [Layout and Branding](for-mappers/mapping-and-branding-guidelines/layout-and-branding.md)
   * [Map Information Meta-Data](for-mappers/mapping-and-branding-guidelines/map-information-meta-data.md)
   * [YMP File Naming Convention and Submitting Files](for-mappers/mapping-and-branding-guidelines/ymp-file-naming-convention-and-submitting-files.md)
-  * [January Branding Discussion](for-mappers/mapping-and-branding-guidelines/january-branding-discussion.md)
   * [IOF ISSProM and School Map Standards](for-mappers/mapping-and-branding-guidelines/iof-issprom-and-school-map-standards.md)
-  * [From Mapper Contract](for-mappers/mapping-and-branding-guidelines/from-mapper-contract.md)
-  * [Map Contract for Youth Organizations](for-mappers/mapping-and-branding-guidelines/map-contract-for-youth-organizations.md)
 
 ## For Map Consultants
 
-* [Map Consultant Table of Contents](for-map-consultants/map-consultant-table-of-contents.md)
+* [Map Consultant Information](for-map-consultants/map-consultant-table-of-contents.md)
 
 ## For Schools and Youth Organizations
 
