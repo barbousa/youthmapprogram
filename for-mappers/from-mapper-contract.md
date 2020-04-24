@@ -4,11 +4,7 @@ description: This is the basis for contracts with YMP mappers
 
 # Mapper Contract Language
 
-_The language on this page forms the basis of the contract with the mapper._
-
-_Last updated 4/22/2020_
-
-\_\_
+_Updated 4/22/2020_                                      
 
 Agreement between The United States Orienteering Federation, Inc., doing business as Orienteering USA \(“OUSA”\) and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ “MAPPER” for mapping services to be performed by MAPPER for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \(MAP LOCATION\) in \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \(YOUTH ORGANIZATION\).
 
@@ -18,7 +14,7 @@ Coordination for this Agreement shall be between \_\_\_\_\_\_\_\_\_\_\_, MAPPER 
 
 For purposes of carrying out the work, MAPPER will communicate with contact  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ of YOUTH ORGANIZATION \(YOUTH ORGANIZATION CONTACT\).
 
-MAPPER’s work will be checked by and delivered to the MAP CONSULTANT assigned by the OUSA YMP: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+MAPPER’s work will be checked by and delivered to the MAP CONSULTANT assigned by the OUSA YMP: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. OUSA reserves the right to change the MAP CONSULTANT assignment as needed.
 
 The goal of this contract is to make an orienteering map of MAP LOCATION for use in outdoor education activities. 
 
@@ -27,7 +23,7 @@ For the purposes of this Agreement, MAPPER shall be an independent contractor an
 ## SCOPE OF WORK
 
 1. Area to be mapped: the area to be mapped is shown in an attachment to this contract, and has a mappable area of \_\_\_\_\_\_\_\_\_\_\_\_\_. 
-2. MAPPER will create an orienteering map that meets current IOF specifications for orienteering maps, and follows the YMP guidelines as to legend, branding, and other mapping aspects. In addition, the map will follow all OUSA Youth Map Program guidelines. 
+2. MAPPER will create an orienteering map that meets current IOF specifications for orienteering maps, and follows the YMP map guidelines. 
    1. MAPPER may apply to the YMP Committee for dispensation to deviate from the IOF specifications and YMP guidelines; the YMP Committee will consider MAPPER’s rationale and make a determination. 
    2. Based on the overall area to be mapped, MAPPER will suggest the suitable scale, contour interval and symbol set to use for the map, following current IOF recommendations for orienteering maps. 
    3. Sometimes it is useful to have an additional, larger scale map \(a smaller area with more detail\). Creating this variation requires additional work, and can be provided by the MAPPER if the MAPPER and YOUTH ORGANIZATION can reach agreement on the additional work and price. 
@@ -54,7 +50,7 @@ MAPPER represents that he or she is authorized to carry out this work under appl
 
 OUSA shall pay MAPPER \_\_\_\_\_\_\_\_\_\_\_\_ upon satisfactory completion of the map. 
 
-In addition, MAPPER shall donate their services, worth \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. OUSA will acknowledge this donation of professional services with a letter, upon satisfactory completion of the map. 
+Instead or in addition, MAPPER shall donate their services, worth \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. OUSA will acknowledge this donation of professional services with a letter, upon satisfactory completion of the map. 
 
 ## BREACH OF CONTRACT
 
@@ -67,7 +63,7 @@ In the event of an intractable disagreement between MAPPER and OUSA over the qua
 
 ## PAYMENT
 
-MAPPER shall provide an invoice along with the electronic map files. OUSA shall pay MAPPER total amount within 4 weeks after the final electronic map files are presented to OUSA.
+MAPPER shall provide an invoice along with the electronic map files. OUSA shall pay MAPPER total amount within 4 weeks after the final electronic map files are presented to OUSA, provided Map Consultant has confirmed that they meet all requirements.
 
 Consented and agreed to:
 
@@ -79,6 +75,5 @@ Mapper signature and date
 
 OUSA representative name
 
-OUSA representative signature and date  
-
+OUSA representative signature and date
 
