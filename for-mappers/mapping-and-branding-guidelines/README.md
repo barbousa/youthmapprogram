@@ -4,8 +4,6 @@ description: OUSA Youth Map Program
 
 # Mapping and Branding Guidelines
 
-_The contents of this section were migrated from the_ [_original Google doc_](https://docs.google.com/document/d/1fcknTEtKzsSUz0llu2yXnLoFCoYxzuJWK9_0n95I2Cw/edit) _on 4/14/20 by BB. Requirements were drafted by BB to provide a concise summary. There are many sections toward the end of the original document that need to be processed and brought over as appropriate._
-
 | _Chapter_ |
 | :--- |
 | [Summary](requirements.md) |
