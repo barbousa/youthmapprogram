@@ -42,7 +42,7 @@ For the purposes of this Agreement, MAPPER shall be an independent contractor an
 
 MAPPER will not retain ownership or copyright of the final map. 
 
-COMPLIANCE
+### COMPLIANCE
 
 MAPPER represents that he or she is authorized to carry out this work under applicable state and federal laws. If the MAPPER is being paid for some or all of this work, then MAPPER will fill out and send to OUSA a W-9 form \(if MAPPER is a U.S. person including a resident alien or a U.S. company\) or a W-8BEN \(if MAPPER is a foreign person who is working completely outside the U.S.A.\). The form will be sent to OUSA prior to commencing work. 
 
