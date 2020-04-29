@@ -2,7 +2,7 @@
 
 Maps for the YMP program should meet these expectations. See the "For Mappers" section for more detailed guidelines.
 
-1. Meet the [ISSprOM standard](http://baoc.org/wiki/images/a/ac/ISSprOM_2019.pdf), with the [ISSOM school symbol set add-on](https://drive.google.com/a/orienteeringusa.org/file/d/1Ez6hZKwhSzUAl1o4iCP3JcG4f068phP1/view?usp=sharing). Reasonable deviations may be allowed with a good rationale. General reference: [https://orienteering.sport/iof/mapping/](https://orienteering.sport/iof/mapping/)
+1. Meet the [ISSprOM standard](http://baoc.org/wiki/images/a/ac/ISSprOM_2019.pdf), with the [ISSprOM school symbol set add-on](https://drive.google.com/a/orienteeringusa.org/file/d/1Ez6hZKwhSzUAl1o4iCP3JcG4f068phP1/view?usp=sharing) for larger scale maps. Reasonable deviations may be allowed with a good rationale. General reference: [https://orienteering.sport/iof/mapping/](https://orienteering.sport/iof/mapping/)
 2. Use a scale appropriate for the project; typically this would range between 1:1000 and 1:4000.
 3. Use an OCAD set of branding and layout symbols and template \([provided by OUSA](https://orienteeringusa.gitbook.io/ousa-youth-mapping-program/for-mappers/mapping-and-branding-guidelines/layout-and-branding)\) for a standard “look and feel” .
 4. Provide a legend
