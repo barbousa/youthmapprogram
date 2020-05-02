@@ -2,7 +2,7 @@
 
 OUSA YMP Committee will choose a set of map consultants. 
 
-As of 4/22/2020, Bill Cusworth is our first map consultant. We have other people in mind but need to confirm with them.
+As of 4/22/2020, Bill Cusworth is our first map consultant. Jon Campbell has been added as our second map consultant. We have other people in mind but need to confirm with them.
 
 Consideration for including a map consultant into the map consultant group:
 
