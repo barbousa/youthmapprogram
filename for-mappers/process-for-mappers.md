@@ -6,7 +6,7 @@
 4. **YMP**: Assign Mapper and Map Consultant to a map project; prepare contracts
 5. **Mapper**: Work out contract details with YMP \(eg size of map; schedule; paid vs volunteer\)
 6. **OUSA, Mapper**: Sign contract.
-7. **Mapper**: Contact the Youth Organization and talk about the field checking process. \(YMP will provide [useful tips](tips-for-guiding-inexperienced-field-checkers.md) on how to guide an inexperienced field checker to review the map.\) Perform work. Coordinate with Youth Organization-provided field checker. Whenever possible in ongoing communications, encourage and advise the Youth Organization on using the map for teaching and introducing more kids to orienteering.
+7. **Mapper**: Contact the Youth Organization and talk about the field checking process. \(YMP will provide useful tips in the section [Remote Mappers and Field Checking](../the-youth-mapping-program/remote-mappers-and-field-checking.md) on how to guide an inexperienced field checker to review the map.\) Perform work. Coordinate with Youth Organization-provided field checker. Whenever possible in ongoing communications, encourage and advise the Youth Organization on using the map for teaching and introducing more kids to orienteering.
 8. **Mapper**: Submit drafts for YMP Map Consultant to review.
 9. **Map Consultant**: review drafts and provide feedback to mapper.
 10. **Mapper**: Revise map together with field checker. Submit final draft to OUSA: OCAD \(and PDF?\) versions.
