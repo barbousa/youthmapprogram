@@ -2,11 +2,7 @@
 
 We expect that most mappers will not visit the site themselves. We want the mappers to work with someone from the YO who will do the field checking. While this means that you may be working with a field checker who is not skilled in the art of field checking, the upside is that there is increased engagement and investment on the part of the YO. We feel the tradeoff between map accuracy and YO engagement is worth it.
 
-Field checker from the Youth Organization should get a copy of the map symbols early on, so that they can become familiar with the symbols before going out and field checking.
-
 It's important to be patient and communicative with your "eyes on the ground". Remember that a major purpose of this program is to draw more schools and youth organizations into providing quality orienteering experiences for young people. Every conversation is an opportunity to make a difference in this goal. Be kind, be a good listener, be positive.
-
-
 
 * In order for a mapper to successfully communicate with an inexperienced field checker, possibly even a YO representative inexperienced in orienteering, a mapper should make sure the YO field checker \(FC\) has access to
   * a copy of the ISSprOM symbols sheet
