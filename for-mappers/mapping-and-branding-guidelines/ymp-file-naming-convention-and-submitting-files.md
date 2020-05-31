@@ -10,7 +10,7 @@ Map Naming Convention: ST\_County\_MapName\_Scale\_YMPProjectMapperNumber\_xxx
 
 * The “\_YMPProjectMapperNumber” includes the project number as well as the number assigned to an YMP mapper, and identifies the year in which the project was assigned by the YMP Committee. 
 * “\_xxx” optional, for example, if a large school district has one project number, with a 1:4,000 map, but additional 1:1,000 maps were made, e.g., for the \_ElemSchool and one for the \_AthleticFieldsComplex.
-* Other than the 2-letter state codethings like county and map name should not be abbreviated, as abbreviations make searching for maps of certain locations far more difficult
+* Other than the 2-letter state code, things like county and map name should not be abbreviated, as abbreviations make searching for maps of certain locations far more difficult.
 
 Submitting Files
 
