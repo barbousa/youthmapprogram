@@ -2,6 +2,8 @@
 
 A mapper will be creating a map for your organization and your students. With the mappers working remotely and rarely being in a position to actually visit the site they are mapping, the program needs at least one enthusiastic person helping with getting the map to the best it can be, and that process is called "Field-checking". You will be able to engage one person or as many students as you want in that process, while following instructions from your mapper.
 
+The mapper will create a map draft by using as many technological tools they have available, like high resolution images, GIS data as well as fun tools like Google Earth Street View to guess or "see" the things at your site. They will then need a pair of eyes and of legs to actually go and check out specific items that the mapper thinks they "see" as well as look for certain items the mapper is not able to see, but may ask whether they exist at your site.
+
 
 
 
