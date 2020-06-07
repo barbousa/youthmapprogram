@@ -10,7 +10,7 @@ It includes the following sections:
 
 * [Overview of the program](the-youth-mapping-program/overview-of-the-program.md)
 * [Information for mappers](for-mappers/contents-mapper-guidelines.md)
-* [Information for schools and youth organizations](for-schools-and-youth-organizations/untitled.md)
+* [Information for schools and youth organizations](for-schools-and-youth-organizations/untitled/)
 * [Information for the Youth Mapping Committee](for-the-ymp-committee/untitled.md)
 
 If you find errors or have suggestions for additions or changes to this manual, please send email to YMPCommittee@orienteeringusa.org, or contact a member of the Committee directly. Please remember that the Committee consists of volunteers. 

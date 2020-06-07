@@ -7,7 +7,7 @@
 * [Overview of the Program](the-youth-mapping-program/overview-of-the-program.md)
 * [Map Guidelines](the-youth-mapping-program/map-guidelines.md)
 * [Map Consultants](the-youth-mapping-program/map-consultants.md)
-* [Remote Mappers and Field Checking](the-youth-mapping-program/remote-mappers-and-field-checking.md)
+* [Remote Mapping and Field Checking Tips](the-youth-mapping-program/remote-mappers-and-field-checking.md)
 * [Communication with YO and YMP Committee](the-youth-mapping-program/communication-with-yo-and-ymp-committee.md)
 * [Cost](the-youth-mapping-program/cost.md)
 * [Grant Rubric](the-youth-mapping-program/map-grants.md)
@@ -35,7 +35,8 @@
 
 ## For Schools and Youth Organizations
 
-* [Information for Schools and Youth Organizations](for-schools-and-youth-organizations/untitled.md)
+* [Information for Schools and Youth Organizations](for-schools-and-youth-organizations/untitled/README.md)
+  * [Youth Organization Contract Language](for-schools-and-youth-organizations/untitled/youth-organization-contract-language.md)
 
 ## For the YMP Committee
 
