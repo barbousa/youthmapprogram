@@ -3,8 +3,8 @@
 Both OCAD and OOM have places where one can enter Map Meta-Data \(see screenshots below\). Please include the following pieces of information:
 
 1. YMP Project number \(can get from the YMP Map Consultant\)
-2. Mapper name, email, and telephone number
-3. State and County map is located in
+2. State and County map is located in
+3. Mapper name, email, and telephone number
 4. Approximate number of hours spent making the map
 5. The symbol set used \(e.g. ISSprOM 2019, IOF School set\)
 6. Georeferencing information \(Coordinate system/projection, Vertical Datum, Horizontal Datum…typically from the LiDAR or DEM\).
