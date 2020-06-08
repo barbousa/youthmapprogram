@@ -8,7 +8,7 @@ description: Suggestions for making a better map
 2. It is recommended to set up the map geo-referenced in UTM coordinates.
 3. Magnetic north lines should be spaced 120 meters on 1:4,000 maps, cut appropriately to maintain legibility \(e.g. crossing same color symbols or when obscuring point features\).
 4. Map drafting flaws are not evident at blown-up scales typically used for beginner courses \(ISOM: 5k, ISSprOM 3k\). 
-5. Layout objects are clean and easy to read. Please don't put objects in the layout mode of OCAD as it may not be compatible with older versions. 
+5. Layout objects are clean and easy to read. Please don't use the layout object layer of OCAD as it may not be compatible with OOM or older versions of OCAD. Put all layout objects and logos in the main symbol layer of OCAD.
 
 Follow IOF legibility and orientation requirements:
 
