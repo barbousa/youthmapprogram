@@ -27,5 +27,5 @@ Submitting Files to the YMP Map Consultant - both Draft and Final versions
 * Submit all relevant background map files \(e.g. LiDAR hillshade, aerial imagery\) and geo-referencing information \(“world” files…e.g. Hillshade.tif and Hillshade.tfw\) to assist future map updates and to allow the Map Consultant to inspect the work.
 * Submit a PDF of the map and pdfs of any intended blow-up scales for beginners \(including appropriate lay-out elements—“real estate” on the paper of a beginner blow-up is at a premium\).
 
-Submit an invoice to the YMP Map Consultant with your final map submission if you are getting paid for your work.
+Submit an invoice to the YMP Map Consultant with your final map submission if you are getting paid for your work. Please include contracted payment amount, map size and number of hours spent \(even though payment is based on area\). 
 
