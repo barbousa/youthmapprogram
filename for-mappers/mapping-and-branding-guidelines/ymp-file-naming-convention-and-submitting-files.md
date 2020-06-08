@@ -23,6 +23,7 @@ Submitting Files to the YMP Map Consultant - both Draft and Final versions
   * No symbols are hidden or protected
   * DEM is closed
   * A version date appears in the upper right corner of the title bar. Format: "Map version: May 2020"
+  * If using OCAD, execute Map-&gt;Optimize/Repair to reduce file size
 * Submit all relevant background map files \(e.g. LiDAR hillshade, aerial imagery\) and geo-referencing information \(“world” files…e.g. Hillshade.tif and Hillshade.tfw\) to assist future map updates and to allow the Map Consultant to inspect the work.
 * Submit a PDF of the map and pdfs of any intended blow-up scales for beginners \(including appropriate lay-out elements—“real estate” on the paper of a beginner blow-up is at a premium\).
 
