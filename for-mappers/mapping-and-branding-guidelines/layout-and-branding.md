@@ -13,7 +13,7 @@ OCAD: File-&gt;Import… \[one of the above files\] and then use the settings
 
 The Orienteering USA-YMP logo, the 120 m scale bar, the “N” arrow tip, the Magnetic North and the disclaimer are all point symbols, all using the 3 OUSA branding colors \(red, light and dark blue\), plus black. The layout objects in these files can be scaled as necessary: in OCAD, use Symbol-&gt;Enlarge/Reduce.
 
-The Text symbols are all Arial text symbols, in the 3 OUSA color, plus black, and can be duplicated and scaled as needed to create titles, copyright labeling and other information statements. An OUSA light blue line symbol can be used to create a frame while the blue double line frame symbol offers a guideline for the page size and for drawing the light blue border. The branding symbols further include an OUSA red line symbol for creating the red bar for the edge of the page facing North, as well as a Text symbol that can be used to write in white onto the red North border. This red bar is specified in the IOF rules for School Maps, but has also been recently used by some clubs and orienteering nations for other maps at smaller scales, including Sprint maps, in order to give competitor a visual aide to quickly identify North on a map.  
+The Text symbols are all Arial text symbols, in the 3 OUSA color, plus black, and can be duplicated and scaled as needed to create titles, copyright labeling and other information statements. An OUSA light blue line symbol can be used to create a frame while the blue double line frame symbol offers a guideline for the page size and for drawing the light blue border. The branding symbols further include an OUSA red line symbol for creating the red bar for the edge of the page facing North, as well as a Text symbol that can be used to write in white onto the red North border. This red bar is specified in the IOF rules for School Maps, but has also been recently used by some clubs and orienteering nations for other maps at smaller scales, including Sprint maps, in order to give competitors a visual aid to quickly identify North on a map.  
 
 
 ![Example of a 1:4000 map with OUSA YMP branding symbols](https://lh3.googleusercontent.com/cm9ue_NZcZ_GZA3UxZcgnJ8SP1FHk14pW2chg2J6TYSb_7lJ6QoIAQ4UmSwpym-XggkAjlhBpdod4abtGMJvS4dO_EpQ5uft9J9KkADm_em1mtlh1BO3DIEus5_BynISnc_KKttL)
@@ -24,5 +24,9 @@ After importing the OUSA layout and branding template and symbols into the OCAD 
 
 ![1:4000 YMP branding symbols map file](https://lh4.googleusercontent.com/fXwvpi0bPBmzH8Hdy4pmOPvmatGPyn8qXpgsJbBhochTc3KUMVNBwOGEl4n2MvSYMwVOfjvwiNpsy-z7jipSMAtyhZ6m6SuidCUOnS7x9lqQzYFFXz3rZBFAhySNS4FfPQR8mDCL)
 
+Either duplicate the layout symbols or just move them into the map. When you are finished with the layout, remove the excess verbage and symbols from the final map to be submitted.
+
 Please don't use the layout object layer of OCAD as it may not be compatible with OOM or older versions of OCAD. Put all layout objects and logos in the main symbol layer of OCAD.
+
+Also, you may find that you have excessive symbol groupings in the symbol box area of your map file after the import \(there will an error message if you run Map -&gt; Optimize/Repair\). Just use the following command to get rid of most of the excess: Symbol -&gt; Remove Group Duplicates from Symbol Tree.
 
