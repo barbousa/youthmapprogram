@@ -18,8 +18,8 @@ Submitting Files to the YMP Map Consultant - both Draft and Final versions
 * Submit a full-feature \(at least OCAD 12\) version of the map file with linked background maps. If the map is drawn in OOM, use “Save As” to create the OCAD file of the highest available file version and submit that.
 * For this file ensure that:
   * Map is in “Normal” mode rather than draft or transparent
-  * All unused background maps are removed \(in OCAD ,found at Manage Background Map -&gt; Manage
-  * All background maps have been hidden
+  * Unused background maps are removed \(in OCAD, found at Manage Background Map -&gt; Manage
+  * All used background maps have been hidden
   * All draft symbols are deleted
   * No symbols are hidden or protected
   * DEM is closed
