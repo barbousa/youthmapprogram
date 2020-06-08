@@ -18,12 +18,13 @@ Submitting Files to the YMP Map Consultant - both Draft and Final versions
 * Submit a full-feature \(at least OCAD 12\) version of the map file with linked background maps. If the map is drawn in OOM, use “Save As” to create the OCAD file of the highest available file version and submit that.
 * For this file ensure that:
   * Map is in “Normal” mode rather than draft or transparent
+  * All unused background maps are removed \(in OCAD ,found at Manage Background Map -&gt; Manage
   * All background maps have been hidden
   * All draft symbols are deleted
   * No symbols are hidden or protected
   * DEM is closed
   * A version date appears in the upper right corner of the title bar. Format: "Map version: May 2020"
-  * If using OCAD, execute Map-&gt;Optimize/Repair to reduce file size and delete any objects without symbols
+  * If using OCAD, execute Map-&gt;Optimize/Repair to reduce file size and delete any objects without symbols. May also need to execute Symbol -&gt; Remove Group Duplicates from Symbol Tree.
 * Submit all relevant background map files \(e.g. LiDAR hillshade, aerial imagery\) and geo-referencing information \(“world” files…e.g. Hillshade.tif and Hillshade.tfw\) to assist future map updates and to allow the Map Consultant to inspect the work.
 * Submit a PDF of the map and pdfs of any intended blow-up scales for beginners \(including appropriate lay-out elements—“real estate” on the paper of a beginner blow-up is at a premium\).
 
