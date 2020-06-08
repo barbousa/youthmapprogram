@@ -2,7 +2,7 @@
 description: >-
   Mappers are matched up with a school or youth organization requesting a map
   based on preferences expressed in polls listing available projects, as well as
-  with a YMP map consultant for the project
+  with a YMP map consultant for the project.
 ---
 
 # YMP Mapping Guidelines

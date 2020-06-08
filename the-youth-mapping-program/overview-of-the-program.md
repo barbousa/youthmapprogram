@@ -6,9 +6,9 @@ Our goal is to make it easy for any school or non-profit youth-serving organizat
 
 Organizationally, the purpose of this program is threefold:
 
-1. To spread orienteering to as many youth as possible
-2. To develop a self-sustaining process to match youth-serving non-profit organizations desiring maps with orienteering mappers and to provide a limited number of grants for map development
-3. To provide a forum to share mapping practices and develop professional collaboration among our growing population of mappers
+1. To spread orienteering to as many youth as possible.
+2. To develop a self-sustaining process to match youth-serving non-profit organizations desiring maps with orienteering mappers and to provide a limited number of grants for map development.
+3. To provide a forum to share mapping practices and develop professional collaboration among our growing population of mappers.
 
 Abbreviations
 
