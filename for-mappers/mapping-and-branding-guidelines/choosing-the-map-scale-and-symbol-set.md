@@ -44,5 +44,5 @@ In the table below, the Approximate Maximum Dimensions in the first column are t
 
 You may want to read the [Map Scale OCAD Wiki](http://www.ocad.com/wiki/ocad/en/index.php?title=Map_Scale) for a better understanding on how to plan in what scale to draw, when to use enlarging by printing, how to use the program’s “Enlarge/Reduce” symbol,  “Scale Change” or other scale-related functions.
 
-When starting with a map, one may already want to name the map file according to the [YMP File Naming Convention](https://docs.google.com/document/d/1fcknTEtKzsSUz0llu2yXnLoFCoYxzuJWK9_0n95I2Cw/edit#bookmark=id.bd8qasibxt18)
+When starting with a map, one may already want to name the map file according to the [YMP File Naming Convention](https://orienteeringusa.gitbook.io/ousa-youth-mapping-program/for-mappers/mapping-and-branding-guidelines/ymp-file-naming-convention-and-submitting-files)
 
