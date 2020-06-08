@@ -10,6 +10,6 @@
 8. **Mapper**: Submit drafts for Map Consultant to review.
 9. **Map Consultant**: Review drafts and provide feedback to mapper.
 10. **Mapper**: Revise map together with field checker. Submit final version to the Map Consultant
-11. **Map Consultant: R**equest any final adjustments and releases the map.
+11. **Map Consultant:** Request any final adjustments and releases the map.
 12. **Mapper**: Final adjustments. Submit final map and invoice. Get paid \(if not 100% volunteering\)
 
