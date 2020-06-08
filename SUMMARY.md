@@ -35,8 +35,8 @@
 
 ## For Schools and Youth Organizations
 
-* [Information for Schools and Youth Organizations](for-schools-and-youth-organizations/untitled/README.md)
-  * [Youth Organization Contract Language](for-schools-and-youth-organizations/untitled/youth-organization-contract-language.md)
+* [Information for Schools and Youth Organizations](for-schools-and-youth-organizations/untitled.md)
+* [Youth Organization Contract Language](for-schools-and-youth-organizations/youth-organization-contract-language.md)
 
 ## For the YMP Committee
 
