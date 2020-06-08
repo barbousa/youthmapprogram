@@ -1,30 +1,27 @@
+---
+description: Naming conventions used for submitting map files to YMP Map Consultant
+---
+
 # YMP File Naming Convention and Submitting Files
 
-Maps created through the YMP will be stored on an OUSA shared drive “OUSA Maps” and will be organized into folders for every US state as 2-letter-state-code \[ST\]. The maps created and possibly updated later, plus background files or any other files submitted for a site \(school, small park, etc.\) or park will be stored in the same folder.
+Maps created through the YMP will be stored on an OUSA shared drive “OUSA Maps” and will be organized into sub-folders for every US state as 2-letter-state-code \[ST\] and another sub-folder for county. The maps created and possibly updated later, plus background files or any other files submitted for a site \(school, small park, etc.\) or park will be stored in the same folder.
 
-Sub-Folder Naming Convention: ST\_County\_MapName
+Map Naming Convention: Date\_Map Name\_Scale\_xxx
 
-* The “\_County\_” name helps to quickly see how many other maps may be located nearby, within the same county. The “\_MapName” should reflect the location, like a school name or park name and match the map name as stated on the red bar at the top edge of a map.
+* Date is in the format YYYY\_MM\_DD, e.g. "2020\_06\_03".
+* Map Name should not be abbreviated, as abbreviations make searching for maps of certain locations far more difficult. Usually the name of the school or park.
+* Scale is in the format "4000Scale".
+* “\_xxx” is optional to be used if for example, a large school district has one project number, with a 1:4,000 map, but additional 1:1,000 maps were made, e.g., for the \_ElemSchool and one for the \_AthleticFieldsComplex.
 
-Map Naming Convention: MapName\_Scale\_YMPProjectMapperNumber\_xxx
+Submitting Files to the YMP Map Consultant -both Draft and Final versions
 
-* The “\_YMPProjectMapperNumber” includes the project number as well as the number assigned to an YMP mapper, and identifies the year in which the project was assigned by the YMP Committee. 
-* “\_xxx” optional, for example, if a large school district has one project number, with a 1:4,000 map, but additional 1:1,000 maps were made, e.g., for the \_ElemSchool and one for the \_AthleticFieldsComplex.
-* Other than the 2-letter state code, things like county and map name should not be abbreviated, as abbreviations make searching for maps of certain locations far more difficult.
-
-Submitting Files
-
-* Provide to OUSA YMP a full-feature \(at least OCAD 12\) version of the map file with linked background maps. If the map is drawn in OOM, use “Save As” to create the OCAD file of highest available file version and submit that.
-* Submit all relevant background map files
-* Independent of the mapping software and version used, create an OCADv12 file version, the latest version with full feature support across common programs \(OCAD, OpenOrienteeringMapper, CONDES, PurplePen, etc\). For this file ensure that:
-  * Ensure map is in “Normal” mode rather than draft or transparent.
+* Submit a full-feature \(at least OCAD 12\) version of the map file with linked background maps. If the map is drawn in OOM, use “Save As” to create the OCAD file of highest available file version and submit that.
+* For this file ensure that:
+  * Map is in “Normal” mode rather than draft or transparent
   * All background maps have been hidden
-  * Delete all draft symbols
-  * No symbols are hidden
+  * All draft symbols are deleted
+  * No symbols are hidden or protected
   * DEM is closed
-
-Recommended
-
-* Provide relevant background map files \(e.g. LiDAR hillshade\) and geo-referencing information \(“world” files…e.g. Hillshade.tif and Hillshade.tfw\) to assist future map updates.
-* Create a PDF of the map and any intended blow-up scales for beginners \(including appropriate lay-out elements—“real estate” on the paper of a beginner blow-up is at a premium\).
+* Submit all relevant background map files \(e.g. LiDAR hillshade\) and geo-referencing information \(“world” files…e.g. Hillshade.tif and Hillshade.tfw\) to assist future map updates.
+* Submit a PDF of the map and pdfs of any intended blow-up scales for beginners \(including appropriate lay-out elements—“real estate” on the paper of a beginner blow-up is at a premium\).
 

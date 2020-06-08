@@ -32,6 +32,7 @@
 * [Map Consultant Information](for-map-consultants/map-consultant-table-of-contents.md)
 * [Process for Consultants](for-map-consultants/process-for-consultants.md)
 * [Map Consultant Contract Language](for-map-consultants/map-consultant-contract-language.md)
+* [YMP Folder and File Naming Convention](for-map-consultants/ymp-folder-and-file-naming-convention.md)
 
 ## For Schools and Youth Organizations
 

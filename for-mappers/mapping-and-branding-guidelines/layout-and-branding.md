@@ -11,7 +11,7 @@ OCAD: File-&gt;Import… \[one of the above files\] and then use the settings
 
 ![OOM import](https://lh6.googleusercontent.com/wnIHaIqiUXcCtr7KNIZ9h3JU94q7vUvvkqm8lkZ15MH4FBQ5EAVoOk7CHu0B2SF5TNXx-6FyxKq6YQfDUOeu_Kmltb14-vyl1hUw9a_DriaPDZqwJ8WTAwqjLaHygkdvogi8P33N)
 
-The OrienteeringUSA-YMP logo, the 120 m scale bar, the “N” arrow tip, the Magnetic North and the disclaimer are all point symbols, all using the 3 OUSA branding colors \(red, light and dark blue\), plus black.
+The Orienteering USA-YMP logo, the 120 m scale bar, the “N” arrow tip, the Magnetic North and the disclaimer are all point symbols, all using the 3 OUSA branding colors \(red, light and dark blue\), plus black.
 
 The Text symbols are all Arial text symbols, in the 3 OUSA color, plus black, and can be duplicated and scaled as needed to create titles, copyright labeling and other information statements. An OUSA light blue line symbol can be used to create a frame while the blue double line frame symbol offers a guideline for the page size and for drawing the light blue border. The branding symbols further include an OUSA red line symbol for creating the red bar for the edge of the page facing North, as well as a Text symbol that can be used to write in white onto the red North border. This red bar is specified in the IOF rules for School Maps, but has also been recently used by some clubs and orienteering nations for other maps at smaller scales, including Sprint maps, in order to give competitor a visual aide to quickly identify North on a map.  
 
