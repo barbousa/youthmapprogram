@@ -21,11 +21,11 @@
 * [Mapping and Branding Guidelines](for-mappers/mapping-and-branding-guidelines/README.md)
   * [Summary](for-mappers/mapping-and-branding-guidelines/requirements.md)
   * [Choosing the Map Scale and Symbol Set](for-mappers/mapping-and-branding-guidelines/choosing-the-map-scale-and-symbol-set.md)
+  * [IOF ISSProM and School Map Standards](for-mappers/mapping-and-branding-guidelines/iof-issprom-and-school-map-standards.md)
   * [Mapping Guidelines](for-mappers/mapping-and-branding-guidelines/mapping-guidelines.md)
   * [Layout and Branding](for-mappers/mapping-and-branding-guidelines/layout-and-branding.md)
   * [Map Information Meta-Data](for-mappers/mapping-and-branding-guidelines/map-information-meta-data.md)
   * [YMP File Naming Convention and Submitting Files](for-mappers/mapping-and-branding-guidelines/ymp-file-naming-convention-and-submitting-files.md)
-  * [IOF ISSProM and School Map Standards](for-mappers/mapping-and-branding-guidelines/iof-issprom-and-school-map-standards.md)
 
 ## For Map Consultants
 

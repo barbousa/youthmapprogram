@@ -8,8 +8,8 @@
 6. **OUSA, Mapper**: Sign contract.
 7. **Mapper**: Contact the Youth Organization and talk about the field checking process . \(YMP will provide useful tips in the section [Remote Mappers and Field Checking](../the-youth-mapping-program/remote-mappers-and-field-checking.md) on how to guide an inexperienced field checker to review the map.\) Perform work. Coordinate with Youth Organization-provided field checker. Whenever possible in ongoing communications, encourage and advise the Youth Organization on using the map for teaching and introducing more kids to orienteering.
 8. **Mapper**: Submit drafts for Map Consultant to review.
-9. **Map Consultant**: review drafts and provide feedback to mapper.
+9. **Map Consultant**: Review drafts and provide feedback to mapper.
 10. **Mapper**: Revise map together with field checker. Submit final version to the Map Consultant
-11. **Map Consultant:** request any final adjustments and releases the map.
-12. **Mapper**: Final adjustments. Submit final map. Get paid \(if not 100% volunteering\)
+11. **Map Consultant: R**equest any final adjustments and releases the map.
+12. **Mapper**: Final adjustments. Submit final map and invoice. Get paid \(if not 100% volunteering\)
 

@@ -10,7 +10,7 @@ This page is a summary of the key expectations from those guidelines. Please che
 
 * Map scale and symbol set
   * Fit on Letter paper.
-  * Include branding, legend, explanatory text, title, copyright and other key elements.
+  * Include branding, legend, explanatory text, title, copyright, version date, and other key elements.
   * Scale should be appropriate for the project; typically 1:1000 - 1:4000; see the [Map Scale OCAD Wiki](http://www.ocad.com/wiki/ocad/en/index.php?title=Map_Scale).
   * Use good safety bounding.
   * Primary data sources are usually Lidar data and aerial imagery.
