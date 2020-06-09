@@ -24,7 +24,7 @@
   * [IOF ISSProM and School Map Standards](for-mappers/mapping-and-branding-guidelines/iof-issprom-and-school-map-standards.md)
   * [Mapping Guidelines](for-mappers/mapping-and-branding-guidelines/mapping-guidelines.md)
   * [Layout and Branding](for-mappers/mapping-and-branding-guidelines/layout-and-branding.md)
-  * [Map Information Meta-Data](for-mappers/mapping-and-branding-guidelines/map-information-meta-data.md)
+  * [Map Information Metadata](for-mappers/mapping-and-branding-guidelines/map-information-meta-data.md)
   * [YMP File Naming Convention and Submitting Files](for-mappers/mapping-and-branding-guidelines/ymp-file-naming-convention-and-submitting-files.md)
 
 ## For Map Consultants

@@ -1,6 +1,6 @@
-# Map Information Meta-Data
+# Map Information Metadata
 
-Both OCAD and OOM have places where one can enter Map Meta-Data \(see screenshots below\). Please include the following pieces of information:
+Both OCAD and OOM have places where one can enter Map Metadata \(see screenshots below\). Please include the following pieces of information:
 
 1. YMP Project number \(can get from the YMP Map Consultant\)
 2. State and County map is located in
