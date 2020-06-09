@@ -15,7 +15,7 @@ Map Naming Convention: Date\_Map Name\_Scale\_xxx
 
 Submitting Files to the YMP Map Consultant - both Draft and Final versions
 
-* Submit a full-feature \(at least OCAD 12\) version of the map file with linked background maps. If the map is drawn in OOM, use “Save As” to create the OCAD file of the highest available file version and submit that.
+* Submit a full-feature \(at least OCAD 10\) version of the map file with linked background maps. If the map is drawn in OOM, use “Save As” to create the OCAD file of the highest available file version and submit that \(the most recent version 0.9.3 will save to OCAD 12\).
 * For this file ensure that:
   * Map is in “Normal” mode rather than draft or transparent
   * Unused background maps are removed \(in OCAD, found at Manage Background Map -&gt; Manage

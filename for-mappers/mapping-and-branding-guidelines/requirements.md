@@ -16,7 +16,7 @@ This page is a summary of the key expectations from those guidelines. Please che
   * Primary data sources are usually Lidar data and aerial imagery.
   * Use the [School Symbols Set](https://drive.google.com/open?id=1d78h3VbOU2HGStS5Az5sGnGlt8sa-nuL) or [ISSprOM](https://drive.google.com/open?id=1i7PtcerhTtEjQwOKJvAeUK18GIZUsszi) from IOF.
 * Map guidelines
-  * Use OCAD 12+ or OOM \(saved as OCAD files\).
+  * Use OCAD 10+ or OOM \(saved as OCAD files\).
   * Geo-reference in UTM coordinates.
   * Use proper relationships for vertex features.
   * Follow IOF legibility and orientation requirements.
