@@ -30,3 +30,9 @@ Please don't use the layout object layer of OCAD as it may not be compatible wit
 
 Also, you may find that you have excessive symbol groupings in the symbol box area of your map file after the import \(there will an error message if you run Map -&gt; Optimize/Repair\). Just use the following command to get rid of most of the excess: Symbol -&gt; Remove Group Duplicates from Symbol Tree.
 
+Some other layout suggestions:
+
+1. Put the OUSA logo near the bottom of the page and directly above the OUSA disclaimer text "OUSA makes no warranty..."
+2. Put the scale bar below the map with 2 magnetic north lines extended down to join the two ends with the scale numbers underneath \(there should be no magnetic lines going through the numbers\).
+3. The magnetic north arrow should be enlarged and placed so that magnetic north lines do not go through it.
+
