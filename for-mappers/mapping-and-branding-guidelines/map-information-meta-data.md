@@ -6,7 +6,7 @@ Both OCAD and OOM have places where one can enter Map Metadata \(see screenshots
 2. State and County map is located in
 3. Mapper name, email, and telephone number
 4. Map Area \(in sq km\) & approximate number of hours spent making the map
-5. The symbol set used \(e.g. ISSprOM 2019, IOF School set\)
+5. The mapping program used \(OCAD or OOM\) and version number & the IOF symbol set used \(e.g. ISSprOM 2019, IOF School symbol set\)
 6. Georeferencing information \(Coordinate system/projection, Vertical Datum, Horizontal Datum…typically from the LiDAR or DEM\).
 7. Grid-to-Magnetic North rotation angle and date. Note that both OCAD and OOM have a function to calculate the rotation angle using the map coordinates & associated coordinate system so you can just copy that information from the program. 
 8. Information on source data \(e.g. building outlines: OpenStreetMap; elevation data: 2013 USGS Grand River LiDAR\)
