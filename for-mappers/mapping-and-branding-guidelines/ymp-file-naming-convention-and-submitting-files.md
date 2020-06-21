@@ -20,7 +20,8 @@ Submitting Files to the YMP Map Consultant - both Draft and Final versions
   * Map is in “Normal” mode rather than draft or transparent
   * Unused background maps are removed \(in OCAD, found at Manage Background Map -&gt; Manage\)
   * All used background maps have been hidden
-  * All draft symbols are deleted
+  * All draft symbols and objects with unknown symbol are deleted
+  * All objects with unknown symbol are deleted
   * No symbols are hidden or protected
   * DEM is closed
   * A version date appears in the upper right corner of the title bar. Format: "Map version: May 2020"
