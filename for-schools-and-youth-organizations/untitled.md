@@ -1,6 +1,8 @@
 # Information for Schools and Youth Organizations
 
-A mapper in the OUSA YMP will be creating a map for your organization and your students. With the mappers working remotely and rarely being in a position to actually visit the site they are mapping, the program needs at least one enthusiastic person helping with getting the map to the best it can be, and that process is called "Field-checking". You will be able to engage one person or as many students as you want in that process, while following instructions from your mapper.
+A mapper in the OUSA YMP will be creating a map for your organization and your students. The focus of this program is small schoolyard and urban park maps for teaching beginning orienteering to children, under 1 km^2. For larger maps we recommend talking to the OUSA Mapping  Coordinator. Please make sure to read through the rubrics "Cost" and "Grant Rubric" for more information on the cost to a youth organization for a map, as well as how grants are prioritized.
+
+With the mappers working remotely and rarely being in a position to actually visit the site they are mapping, the program needs at least one enthusiastic person helping with getting the map to the best it can be, and that process is called "Field-checking". You will be able to engage one person or as many students as you want in that process, while following instructions from your mapper.
 
 The mapper will create a map draft by using as many technological tools they have available, like high resolution images, GIS data as well as fun tools like Google Earth Street View to guess or "see" the things at your site. They will then need pairs of eyes and legs to actually go and check out specific items that the mapper thinks they "see" from afar. In addition, they will need help with consistency in mapping, e.g., if water fountains are marked, you will be asked to help spot whether any of them have been missed.
 
