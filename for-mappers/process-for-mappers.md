@@ -1,8 +1,8 @@
 # Process for Mappers
 
 1. **Mapper**: After reviewing the expectations of mappers as laid out in the [contract language](from-mapper-contract.md), apply to be a mapper with the YMP program.
-2. **YMP**: Decide on the application. Send the mapper additional information and an invitation to the google group for mappers \(YMPmappers\). Send periodic emails to YMPmappers@orienteeringusa.org describing currently open mapping projects.
-3. **Mapper**: Provide YMP any additional information required \(e.g., IRS W-9 tax form\). Accept the invitation to the google group. Follow and contribute to the discussion. Express interest in any of the open mapping projects.
+2. **YMP**: Decide on the application. Send the mapper additional information and an invitation to the google group for mappers \(YMPmappers\). 
+3. **Mapper**: Provide YMP any additional information required \(e.g., IRS W-9 tax form\). Accept the invitation to the google group. Follow and contribute to the discussion. 
 4. **YMP**: Assign Mapper and Map Consultant to a map project; prepare contracts
 5. **Mapper**: Work out contract details with YMP \(e.g., size of map; schedule; paid vs volunteer\)
 6. **OUSA, Mapper**: Sign contract.
