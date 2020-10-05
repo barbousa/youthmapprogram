@@ -12,5 +12,5 @@ If not an orienteer, you may be intrigued by some of the terms and what you woul
 
 If the map will be of a small area \(large scale\), you may further check out the blog on [international school orienteering symbols](https://ocad.com/blog/2020/02/symbol-set-for-school-orienteering-maps/) as it may give you ideas what cool things are on your school grounds that could be mapped.
 
-You may also want to check out the [Remote Mapping and Field Checking Tips](https://prod-app.gitbook-staging.com/@orienteeringusa/s/ousa-youth-mapping-program/~/drafts/-M8ziWD29IUZ_OmI_X1k/the-youth-mapping-program/remote-mappers-and-field-checking) in the Mappers' section of the Youth Mapping Program Manual as it may give you additional ideas on how to assist your assigned mapper.
+You may also want to check out the [Remote Mapping and Field Checking Tips](https://app.gitbook.com/@orienteeringusa/s/ousa-youth-mapping-program/the-youth-mapping-program/remote-mappers-and-field-checking) in the Mappers' section of the Youth Mapping Program Manual as it may give you additional ideas on how to assist your assigned mapper.
 
