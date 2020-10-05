@@ -9,5 +9,5 @@ Maps for the YMP program should meet these expectations. See the "For Mappers" s
 5. Include a scale bar. Often schools end up printing the map at different scales, either on purpose or accidentally, and the scale bar will always remain correct.
 6. We expect maps to be done in OCAD or OOM. If in OOM, the map should be saved in OCAD 12 format. 
 7. Copies of the completed map should go to OUSA, and those involved in the map creation \(base map, field checker, updater, and so on\), as well as the youth organization making the request. 
-8. Mapper will not retain copyright of the final map. Copyright will be held by OUSA if the youth organization received a grant. Copyright will be held by the YO if they pay for the map. If there is an OUSA grand and the YO pays for part of it, there will be a joint copyright with OUSA and the YO.
+8. Mapper will not retain copyright of the final map. Copyright will be held by OUSA if the youth organization received a grant. Copyright will be held by the YO if they pay for the map. If there is an OUSA grant and the YO pays for part of it, there will be a joint copyright with OUSA and the YO.
 
