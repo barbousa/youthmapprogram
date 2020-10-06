@@ -1,8 +1,8 @@
 # Cost
 
-The cost to a Youth Organization of a map \(the Map Creation Fee\) is the sum of \(starting with Round 2\): $1600/km^2 \(minimum $400\) + $100.
+The cost to a Youth Organization of a map \(the Map Creation Fee\) is the sum of \(starting with Round 2\): $100 + Mapper Fee. The $100 is a $50 administrative fee and $50 for the Map Consultant.
 
-The $1600/km^2 goes to the Mapper; $50 is for the Map Consultant, and $50 is an administrative fee. 
+The Mapper Fee is determined by the Mapper, with an upper limit of $200 +  $1000/km^2. The cost may be less than the upper limit for a map of a relatively simple area.
 
 The Mapper and the Map Consultant may donate some or all of their professional services to the OUSA Youth Mapping Program, instead of being paid. This helps to sustain our program and create more maps.
 
